@@ -1,18 +1,4 @@
-<<<<<<< HEAD
- 
 .home {
-=======
-.home-container {
-  width: 100%;
-  display: flex;
-  overflow: auto;
-  min-height: 100vh;
-  align-items: center;
-  flex-direction: column;
-}
- 
-.home-home {
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
   width: 100%;
   height: 4811px;
   display: flex;
@@ -23,11 +9,7 @@
   background-color: rgba(255, 255, 255, 1);
 }
  
-<<<<<<< HEAD
 footer {
-=======
-.home-navigation-footer {
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
   top: 4547px;
   left: 0px;
   width: 1440px;
@@ -40,22 +22,6 @@ footer {
   background-color: rgba(255, 255, 255, 1);
 }
  
-<<<<<<< HEAD
-=======
-.home-items1 {
-  gap: 24px;
-  top: 48px;
-  left: 736px;
-  width: 187px;
-  display: flex;
-  position: absolute;
-  align-items: flex-end;
-  flex-shrink: 0;
-  flex-direction: column;
-  justify-content: center;
-}
- 
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 .home-text1  {
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -87,24 +53,6 @@ footer {
   text-align: left;
   line-height: 150%;
 }
-<<<<<<< HEAD
-
-=======
- 
-.home-items2 {
-  gap: 24px;
-  top: 48px;
-  left: 955px;
-  width: 187px;
-  display: flex;
-  position: absolute;
-  align-items: flex-end;
-  flex-shrink: 0;
-  flex-direction: column;
-  justify-content: center;
-}
- 
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 .home-text14 {
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -137,22 +85,6 @@ footer {
   line-height: 150%;
 }
  
-<<<<<<< HEAD
-=======
-.home-items3 {
-  gap: 24px;
-  top: 48px;
-  left: 1173px;
-  width: 187px;
-  display: flex;
-  position: absolute;
-  align-items: flex-end;
-  flex-shrink: 0;
-  flex-direction: column;
-  justify-content: center;
-}
- 
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 .home-text18 {
   color: rgba(0, 0, 0, 1);
   height: auto;
@@ -329,7 +261,6 @@ footer {
   position: absolute;
 }
  
-<<<<<<< HEAD
 #home-nav {
   gap: 48px;
   left: 50%;
@@ -345,46 +276,6 @@ footer {
   height: auto;
   text-align: left;
 line-height: 150%;  
-=======
-.home-divider {
-  top: 1px;
-  left: 80px;
-  width: 1280px;
-  height: 1px;
-  position: absolute;
-  align-self: stretch;
-}
- 
-.home-navigation {
-  top: 0px;
-  left: 0px;
-  width: 1440px;
-  height: 164px;
-  display: flex;
-  overflow: hidden;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-  background-color: rgba(255, 255, 255, 1);
-}
- 
-.home-items4 {
-  gap: 48px;
-  top: 56px;
-  left: 727px;
-  width: 633px;
-  display: flex;
-  position: absolute;
-  align-items: center;
-  justify-content: flex-end;
-}
- 
-.home-text23 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  text-align: left;
-  line-height: 150%;
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 }
  
 .home-text24 {
@@ -408,16 +299,6 @@ line-height: 150%;
   line-height: 150%;
 }
  
-<<<<<<< HEAD
-
-=======
-.home-text27 {
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  text-align: left;
-  line-height: 150%;
-}
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
  
 .home-text28 {
   top: 67px;
@@ -469,12 +350,6 @@ line-height: 150%;
   text-align: left;
   font-family: Inter;
   font-weight: 700;
-<<<<<<< HEAD
-=======
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 }
  
 .home-frame1321317456 {
@@ -487,21 +362,7 @@ line-height: 150%;
   align-items: center;
   flex-shrink: 0;
 }
-<<<<<<< HEAD
   
-=======
- 
-.home-card1 {
-  gap: 24px;
-  width: 405px;
-  display: flex;
-  flex-grow: 1;
-  align-items: flex-start;
-  flex-shrink: 0;
-  flex-direction: column;
-}
- 
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 .home-image1 {
   width: 405px;
   height: 405px;
@@ -544,10 +405,6 @@ line-height: 150%;
   height: auto;
   font-size: 24px;
   align-self: stretch;
-<<<<<<< HEAD
-=======
-  font-style: Regular;
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -555,7 +412,6 @@ line-height: 150%;
   font-stretch: normal;
   text-decoration: none;
 }
-<<<<<<< HEAD
 
 #home-divider {
   top: 1px;
@@ -568,10 +424,6 @@ line-height: 150%;
  
  
 .card {
-=======
- 
-.home-card2 {
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
   gap: 24px;
   width: 405px;
   display: flex;
@@ -632,19 +484,6 @@ line-height: 150%;
   text-decoration: none;
 }
  
-<<<<<<< HEAD
-=======
-.home-card3 {
-  gap: 24px;
-  width: 405px;
-  display: flex;
-  flex-grow: 1;
-  align-items: flex-start;
-  flex-shrink: 0;
-  flex-direction: column;
-}
- 
->>>>>>> f2780af7c2b0947ca63d7a4351797319b6de7c39
 .home-image3 {
   width: 405px;
   height: 405px;
