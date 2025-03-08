@@ -1,0 +1,833 @@
+.eventos-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.eventos-eventos {
+  width: 100%;
+  height: 2115px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.eventos-text10 {
+  top: 857px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 625px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text11 {
+  top: 164px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 625px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-copy1 {
+  gap: 24px;
+  top: 327px;
+  left: 834px;
+  width: 515px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text12 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 40px;
+  align-self: stretch;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text13 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text15 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-button {
+  gap: 8px;
+  display: flex;
+  padding: 14px 24px;
+  align-self: stretch;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 1);
+}
+ 
+.eventos-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-image1 {
+  top: 327px;
+  left: 80px;
+  width: 625px;
+  height: 450px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image8 {
+  top: 0px;
+  left: -23px;
+  width: 860px;
+  height: 590px;
+  position: absolute;
+}
+ 
+.eventos-navigation {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 164px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.eventos-items {
+  gap: 48px;
+  top: 56px;
+  left: 793px;
+  width: 459px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+}
+ 
+.eventos-text17 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text18 {
+  color: rgba(31, 48, 205, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text19 {
+  color: rgba(0, 0, 0, 1);
+  width: 83px;
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text21 {
+  top: 67px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-image2 {
+  top: 26px;
+  left: 1310px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.eventos-navigation-footer {
+  top: 1851px;
+  left: 0px;
+  width: 1440px;
+  height: 264px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.eventos-text22 {
+  top: 52px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-social-icons {
+  gap: 8px;
+  top: 176px;
+  left: 80px;
+  width: 184px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.eventos-buttons-icon1 {
+  gap: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.eventos-icon1 {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.eventos-icon2 {
+  top: 2.0399999618530273px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.eventos-buttons-icon2 {
+  gap: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.eventos-icon3 {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.eventos-icon4 {
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+ 
+.eventos-buttons-icon3 {
+  gap: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.eventos-icon5 {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.eventos-icon6 {
+  top: 5px;
+  left: 2px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+}
+ 
+.eventos-buttons-icon4 {
+  gap: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  position: relative;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.eventos-icon7 {
+  top: 8px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.eventos-icon8 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.eventos-divider {
+  top: 1px;
+  left: 80px;
+  width: 1280px;
+  height: 1px;
+  position: absolute;
+  align-self: stretch;
+}
+ 
+.eventos-cardgrid {
+  gap: 32px;
+  top: 937px;
+  left: 80px;
+  width: 1302px;
+  height: 948px;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.eventos-card1 {
+  gap: 24px;
+  width: 390px;
+  height: 463px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image3 {
+  width: 390px;
+  height: 202px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image11 {
+  top: 0px;
+  left: 0px;
+  width: 404px;
+  height: 253px;
+  position: absolute;
+}
+ 
+.eventos-copy2 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text23 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text24 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text25 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-card2 {
+  gap: 24px;
+  width: 421px;
+  height: 463px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image4 {
+  width: 421px;
+  height: 239px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(247, 247, 247, 1);
+}
+ 
+.eventos-image5 {
+  top: -11px;
+  left: 0px;
+  width: 421px;
+  height: 271px;
+  position: absolute;
+}
+ 
+.eventos-copy3 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text27 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-card3 {
+  gap: 24px;
+  width: 411px;
+  height: 463px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image6 {
+  width: 411px;
+  height: 239px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image10 {
+  top: -5px;
+  left: 0px;
+  width: 411px;
+  height: 248px;
+  position: absolute;
+}
+ 
+.eventos-copy4 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text29 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text30 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text31 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-card4 {
+  gap: 24px;
+  width: 404px;
+  height: 491px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image7 {
+  width: 404px;
+  height: 237px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image12 {
+  top: 0px;
+  left: -70px;
+  width: 544px;
+  height: 237px;
+  position: absolute;
+}
+ 
+.eventos-copy5 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text32 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text33 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text34 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-card5 {
+  gap: 24px;
+  width: 420px;
+  height: 491px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image9 {
+  width: 420px;
+  height: 267px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image13 {
+  top: -91px;
+  left: -113px;
+  width: 630px;
+  height: 420px;
+  position: absolute;
+}
+ 
+.eventos-copy6 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text35 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text36 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text37 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-card6 {
+  gap: 24px;
+  width: 411px;
+  height: 491px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.eventos-image15 {
+  width: 411px;
+  height: 237px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.20000000298023224);
+}
+ 
+.eventos-image14 {
+  top: -18px;
+  left: 1px;
+  width: 409px;
+  height: 273px;
+  position: absolute;
+}
+ 
+.eventos-copy7 {
+  gap: 4px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.eventos-text38 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.eventos-text39 {
+  color: rgba(130, 130, 130, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+ 
+.eventos-text40 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
